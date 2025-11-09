@@ -1,0 +1,7 @@
+{
+  "name": " Habu Hindi Chatbot",
+  "description": "A friendly and playful AI chatbot named Habu that communicates exclusively in Hindi, powered by Google's Gemini model.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
